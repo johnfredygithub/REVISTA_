@@ -6,5 +6,5 @@
 
 Image:
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://johnfredygithub.github.io/REVISTA_/IMAGENES/img3.svg)
 
